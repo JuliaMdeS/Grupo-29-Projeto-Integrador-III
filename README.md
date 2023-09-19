@@ -28,6 +28,54 @@ Para entender melhor como o sistema funciona em prática, consideramos alguns ce
 
 (Nota: Os cenários específicos foram omitidos aqui para economizar espaço, mas podem ser facilmente incorporados seguindo o formato acima.)
 
+#### Visão das Telas do Sistema do Projeto Integrador
+
+---
+
+**Perfil do Professor:**
+
+![Imagem representativa do fluxo do professor](images/fluxograma1.jpg)
+
+Ao realizar o login utilizando seu ID, o professor é conduzido às seguintes funcionalidades:
+
+- Cadastro de plano de aula.
+- Registro de notas dos alunos.
+- Consulta de horários programados para aulas.
+
+---
+
+**Perfil do Estudante:**
+
+![Imagem representativa do fluxo do estudante](images/fluxograma2.jpg)
+
+O estudante, após autenticação pelo ID, é direcionado à tela de seleção de curso. Se o aluno estiver inscrito em um curso:
+
+- A tela subsequente apresenta as opções de efetuar pagamentos de mensalidade.
+  
+Caso o aluno não esteja inscrito em um curso específico:
+
+- Ele será direcionado às opções de busca de curso, visualização de notas e efetuação de pagamentos de mensalidade.
+
+Vale ressaltar que o processo de pagamento de mensalidade é interligado ao perfil da instituição educacional, que recebe o pagamento e vincula ao ID do aluno. O aluno tem, ainda, as opções de trancar ou destrancar seu curso. A opção de trancamento resulta na não alocação do aluno em uma turma, enquanto a de destrancamento tenta alocá-lo. Caso não haja turmas disponíveis, uma notificação é apresentada.
+
+---
+
+**Perfil de Fornecedor e Pessoa Jurídica:**
+
+![Imagem representativa dos fluxos de Fornecedor e Pessoa Jurídica](images/fluxograma3.jpg)
+
+Tanto fornecedores quanto pessoas jurídicas devem autenticar-se através de um ID. 
+
+Para fornecedores:
+
+- A interface apresenta opções de consulta a contratos existentes e envio de propostas para a instituição.
+
+Para pessoas jurídicas prestadoras de serviços:
+
+- A plataforma permite o cadastro de novas parcerias, a consulta de parcerias já estabelecidas e o envio de faturas relacionadas.
+
+---
+
 ## A Importância da Experiência do Usuário (UX) no Projeto
 
 A experiência do usuário (UX) está no cerne do nosso projeto. Um sistema, não importa quão tecnicamente avançado seja, deve ser amigável e intuitivo para seus usuários. A eficácia da UX no nosso projeto pode:
