@@ -94,7 +94,7 @@ Para mais informações, consulte os diagramas UML, protótipos e documentação
 
 ## Contribuições
 
-Este projeto foi realizado pelo **Grupo 29 - Disciplina de Projeto Integrador: Programação Orientada a Objetos.** Se você quiser contribuir com o projeto, por favor, verifique as [instruções de contribuição](#contribuições) para mais detalhes.
+Este projeto foi realizado pelo **Grupo 29 - STADCAS3DA_2302-2302-686288 2302-PROJETO INTEGRADOR: DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS.** Se você quiser contribuir com o projeto, por favor, verifique as [instruções de contribuição](#contribuições) para mais detalhes.
 
 --- 
 
