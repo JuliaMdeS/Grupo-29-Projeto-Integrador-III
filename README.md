@@ -94,11 +94,13 @@ Para mais informações, consulte os diagramas UML, protótipos e documentação
 
 ## Contribuições
 
-Este projeto é mantido por uma equipe de desenvolvedores dedicados. Se você é membro da equipe, por favor, verifique as [instruções de contribuição](#contribuições) para mais detalhes.
+Este projeto foi realizado pelo **Grupo 29 - Disciplina de Projeto Integrador: Programação Orientada a Objetos.** Se você quiser contribuir com o projeto, por favor, verifique as [instruções de contribuição](#contribuições) para mais detalhes.
 
 --- 
 
-**Referência**: 
+## **Referência**: 
+
 TEIXEIRA, Fabricio. Introdução e boas práticas em UX design. [s.l.]: Casa do Código, 2014.
 SANTOS, A. M. dos. et al. DIRETRIZES PARA A CONSTRUÇÃO DE CASOS DE USO EFICAZES. Revista de Informática, vol 2, nº 2, p. 70–75, jul-dez. 2006. Disponível em: https://seer.uscs.edu.br/index.php/revista_informatica_aplicada/article/view/293/259. Acesso em 06 jun 2023.
+
 ---
